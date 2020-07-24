@@ -1,3 +1,8 @@
 = Stephen Connolly
 
-Testing if readmes work in asciidoc
+Technology I love:
+
+* Java
+* Maven
+* Rust
+* Asciidoc
