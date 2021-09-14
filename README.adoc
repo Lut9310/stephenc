@@ -6,3 +6,7 @@ Technology I love:
 * Maven
 * Rust
 * Asciidoc
+
+Technology that's growing on me:
+
+* R
