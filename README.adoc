@@ -1,7 +1,6 @@
 = Stephen Connolly
 
 Technology I love:
-
 * Java
 * Maven
 * Rust
